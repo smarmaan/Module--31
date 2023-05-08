@@ -3,7 +3,7 @@ const fullName = (Fname, Lname) => Fname + " " + Lname;
 const multiply = (a, b) => a * b;
 
 const result = multiply(10, 20);
-console.log(result);
+// console.log(result);
 
 
 
