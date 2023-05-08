@@ -11,9 +11,9 @@ console.log(result);
 const getPie = () => 3.14;
 
 // one parameter arrow function
-const doubleIt = (num) => num * 2;
+// const doubleIt = (num) => num * 2;
 // ~~~~~~~~~  OR  ~~~~~~~~~
-const FiveTimes = num => num * 5;
+// const FiveTimes = num => num * 5;
 
 
 
